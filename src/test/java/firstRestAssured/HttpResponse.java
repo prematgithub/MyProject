@@ -10,5 +10,6 @@ public class HttpResponse {
 
 	public void method1() {
 		RestAssured.get();
+		
 	}
 }
