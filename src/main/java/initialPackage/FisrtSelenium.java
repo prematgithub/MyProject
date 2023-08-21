@@ -9,7 +9,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class FisrtSelenium {
 
 	public static void main(String[] args) throws Exception {
-		// TODO Auto-generated method stub
 
 		System.setProperty("webdriver.chrome.driver", "C:\\Softwares\\chromedriverwin32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();

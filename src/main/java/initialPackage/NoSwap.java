@@ -25,6 +25,7 @@ public class NoSwap {
 		System.out.println("Value of a after swapping without using 3rd variable and * and / "+a); 
 		System.out.println("Value of b after swapping without using 3rd variable and * and / "+b); 
 		
+		
 		//Using single statement
 		b=a+b-(a=b);
 		System.out.println("Value of a after Swap "+a); 
